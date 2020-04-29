@@ -7,7 +7,6 @@
     "axios": "^0.19.2",
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
-    "package": "^1.0.1",
     "request": "^2.88.2"
   },
   "devDependencies": {},
